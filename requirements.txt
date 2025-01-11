@@ -1,0 +1,7 @@
+transformers
+streamlit
+transformers[torch]
+pandas
+matplotlib.pyplot
+wordcloud
+seaborn
